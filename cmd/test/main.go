@@ -28,10 +28,11 @@ func main() {
 		log.Fatalf("MnemonicToSeed failed: %#v", err)
 	}
 
+	inviteCode := "code"
 	nodeConfig :=  breez_sdk.NodeConfigGreenlight{
 		Config: breez_sdk.GreenlightNodeConfig{
 			PartnerCredentials: nil, 
-			InviteCode:         nil,
+			InviteCode:         &inviteCode,
 		},
 	}
 
