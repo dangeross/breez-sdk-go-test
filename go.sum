@@ -1,4 +1,2 @@
-github.com/breez/breez-sdk-go v0.1.2 h1:g03y9UGZ0nbwnHIHV+7pQIoyUGAi7LCsZ0hk2NKm69k=
-github.com/breez/breez-sdk-go v0.1.2/go.mod h1:EalYMEeQVwRzr6UXnF4QpLlpuWNwQQN9xwtDKNIutBo=
-github.com/breez/breez-sdk-go v0.2.3 h1:U23iNmLN40ZcMDKl6quHc3o0k63aBXrnHSZe4d2OxSU=
-github.com/breez/breez-sdk-go v0.2.3/go.mod h1:EalYMEeQVwRzr6UXnF4QpLlpuWNwQQN9xwtDKNIutBo=
+github.com/breez/breez-sdk-go v0.2.15 h1:zzxU95mxY5i0GtH49GebN+weWBl9OOIe9EcLrSuqB8I=
+github.com/breez/breez-sdk-go v0.2.15/go.mod h1:EalYMEeQVwRzr6UXnF4QpLlpuWNwQQN9xwtDKNIutBo=
